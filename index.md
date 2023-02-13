@@ -1,3 +1,13 @@
 # Welcome to Alejandro's porfolio
-## semester 1
-## semester 2
+
+## Semester 1
+
+### Calculator
+
+OOP Graphical calculator using processing.
+
+![Calculator]()
+
+[Source Code]()
+
+## Semester 2
